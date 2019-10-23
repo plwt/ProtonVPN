@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "ProtonVPN",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(85, 85, 95)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(85, 85, 95)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(85, 85, 95)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(100, 182, 102)",
+      "popup": "rgb(85, 85, 95)",
+      "popup_text": "rgb(255, 255, 255)",
+      "toolbar_field_border": "rgb(100, 182, 102)",
+      "toolbar_field_border_focus": "rgb(100, 182, 102)",	
+      "toolbar_field_focus": "rgb(85, 85, 95)",
+      "ntp_background": "rgb(85, 85, 95)",
+      "ntp_text":"rgb(255, 255, 255)",
+      "tab_loading": "rgb(100, 182, 102)"
+    }
+  }
+}
